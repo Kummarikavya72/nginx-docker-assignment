@@ -37,3 +37,14 @@ the docker image which i bulit
 ![image](https://github.com/user-attachments/assets/47b927b3-122b-4702-941e-4aafe33a3df5)
 everything is working good
 wrote docker files and deployed through docker
+NGINX Logs
+NGINX logs every request with:
+Timestamp
+IP Address
+URL Path
+ Tech Stack( used files and programmes)
+Docker
+Docker Compose
+NGINX
+Go (Golang)
+Python Flask
